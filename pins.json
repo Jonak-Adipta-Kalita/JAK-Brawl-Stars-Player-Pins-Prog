@@ -67,6 +67,38 @@
 		{
 			"id": 16,
 			"image": "player/starting/thumbs-down.png"
+		},
+		{
+			"id": 17,
+			"image": "player/exclusive/world-finals-2020/neutral.png"
+		},
+		{
+			"id": 18,
+			"image": "player/exclusive/world-finals-2020/happy.png"
+		},
+		{
+			"id": 19,
+			"image": "player/exclusive/world-finals-2020/sad.png"
+		},
+		{
+			"id": 20,
+			"image": "player/exclusive/world-finals-2020/angry.png"
+		},
+		{
+			"id": 21,
+			"image": "player/exclusive/world-finals-2020/gg.png"
+		},
+		{
+			"id": 22,
+			"image": "player/exclusive/world-finals-2020/thanks.png"
+		},
+		{
+			"id": 23,
+			"image": "player/exclusive/world-finals-2020/phew.png"
+		},
+		{
+			"id": 24,
+			"image": "player/exclusive/world-finals-2020/special.png"
 		}
 	]
 }
