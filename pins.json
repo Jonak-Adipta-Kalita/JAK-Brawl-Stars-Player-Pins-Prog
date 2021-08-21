@@ -1,0 +1,72 @@
+{
+	"results": [
+		{
+			"id": 0,
+			"image": "player/starting/happy.png"
+		},
+		{
+			"id": 1,
+			"image": "player/starting/smile.png"
+		},
+		{
+			"id": 2,
+			"image": "player/starting/ecstatic.png"
+		},
+		{
+			"id": 3,
+			"image": "player/starting/grin.png"
+		},
+		{
+			"id": 4,
+			"image": "player/starting/laugh.png"
+		},
+		{
+			"id": 5,
+			"image": "player/starting/blank.png"
+		},
+		{
+			"id": 6,
+			"image": "player/starting/speechless.png"
+		},
+		{
+			"id": 7,
+			"image": "player/starting/sad.png"
+		},
+		{
+			"id": 8,
+			"image": "player/starting/shocked.png"
+		},
+		{
+			"id": 9,
+			"image": "player/starting/stunned.png"
+		},
+		{
+			"id": 10,
+			"image": "player/starting/bothered.png"
+		},
+		{
+			"id": 11,
+			"image": "player/starting/annoyed.png"
+		},
+		{
+			"id": 12,
+			"image": "player/starting/rage.png"
+		},
+		{
+			"id": 13,
+			"image": "player/starting/angry.png"
+		},
+		{
+			"id": 14,
+			"image": "player/starting/frenzied.png"
+		},
+		{
+			"id": 15,
+			"image": "player/starting/thumbs-up.png"
+		},
+		{
+			"id": 16,
+			"image": "player/starting/thumbs-down.png"
+		}
+	]
+}
