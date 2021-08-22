@@ -155,6 +155,18 @@
 		{
 			"id": 38,
 			"image": "exclusive/lunar-brawl-2021/special.png"
+		},
+		{
+			"id": 39,
+			"image": "exclusive/championship-challenge/lighter.png"
+		},
+		{
+			"id": 40,
+			"image": "exclusive/championship-challenge/whistle.png"
+		},
+		{
+			"id": 41,
+			"image": "exclusive/championship-challenge/confetti.png"
 		}
 	]
 }
