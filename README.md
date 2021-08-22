@@ -1,1 +1,1 @@
-# JAK Brawl Stars Pins Prog
+# JAK Brawl Stars Player Pins Prog

@@ -2,103 +2,107 @@
 	"results": [
 		{
 			"id": 0,
-			"image": "player/starting/happy.png"
+			"image": "starting/happy.png"
 		},
 		{
 			"id": 1,
-			"image": "player/starting/smile.png"
+			"image": "starting/smile.png"
 		},
 		{
 			"id": 2,
-			"image": "player/starting/ecstatic.png"
+			"image": "starting/ecstatic.png"
 		},
 		{
 			"id": 3,
-			"image": "player/starting/grin.png"
+			"image": "starting/grin.png"
 		},
 		{
 			"id": 4,
-			"image": "player/starting/laugh.png"
+			"image": "starting/laugh.png"
 		},
 		{
 			"id": 5,
-			"image": "player/starting/blank.png"
+			"image": "starting/blank.png"
 		},
 		{
 			"id": 6,
-			"image": "player/starting/speechless.png"
+			"image": "starting/speechless.png"
 		},
 		{
 			"id": 7,
-			"image": "player/starting/sad.png"
+			"image": "starting/sad.png"
 		},
 		{
 			"id": 8,
-			"image": "player/starting/shocked.png"
+			"image": "starting/shocked.png"
 		},
 		{
 			"id": 9,
-			"image": "player/starting/stunned.png"
+			"image": "starting/stunned.png"
 		},
 		{
 			"id": 10,
-			"image": "player/starting/bothered.png"
+			"image": "starting/bothered.png"
 		},
 		{
 			"id": 11,
-			"image": "player/starting/annoyed.png"
+			"image": "starting/annoyed.png"
 		},
 		{
 			"id": 12,
-			"image": "player/starting/rage.png"
+			"image": "starting/rage.png"
 		},
 		{
 			"id": 13,
-			"image": "player/starting/angry.png"
+			"image": "starting/angry.png"
 		},
 		{
 			"id": 14,
-			"image": "player/starting/frenzied.png"
+			"image": "starting/frenzied.png"
 		},
 		{
 			"id": 15,
-			"image": "player/starting/thumbs-up.png"
+			"image": "starting/thumbs-up.png"
 		},
 		{
 			"id": 16,
-			"image": "player/starting/thumbs-down.png"
+			"image": "starting/thumbs-down.png"
 		},
 		{
 			"id": 17,
-			"image": "player/exclusive/world-finals-2020/neutral.png"
+			"image": "exclusive/world-finals-2020/neutral.png"
 		},
 		{
 			"id": 18,
-			"image": "player/exclusive/world-finals-2020/happy.png"
+			"image": "exclusive/world-finals-2020/happy.png"
 		},
 		{
 			"id": 19,
-			"image": "player/exclusive/world-finals-2020/sad.png"
+			"image": "exclusive/world-finals-2020/sad.png"
 		},
 		{
 			"id": 20,
-			"image": "player/exclusive/world-finals-2020/angry.png"
+			"image": "exclusive/world-finals-2020/angry.png"
 		},
 		{
 			"id": 21,
-			"image": "player/exclusive/world-finals-2020/gg.png"
+			"image": "exclusive/world-finals-2020/gg.png"
 		},
 		{
 			"id": 22,
-			"image": "player/exclusive/world-finals-2020/thanks.png"
+			"image": "exclusive/world-finals-2020/thanks.png"
 		},
 		{
 			"id": 23,
-			"image": "player/exclusive/world-finals-2020/phew.png"
+			"image": "exclusive/world-finals-2020/phew.png"
 		},
 		{
 			"id": 24,
-			"image": "player/exclusive/world-finals-2020/special.png"
+			"image": "exclusive/world-finals-2020/special.png"
+		},
+		{
+			"id": 25,
+			"image": "exclusive/brawlidays-2020/neutral.png"
 		}
 	]
 }
