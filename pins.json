@@ -131,6 +131,30 @@
 		{
 			"id": 32,
 			"image": "exclusive/brawlidays-2020/special.png"
+		},
+		{
+			"id": 33,
+			"image": "exclusive/lunar-brawl-2021/neutral.png"
+		},
+		{
+			"id": 34,
+			"image": "exclusive/lunar-brawl-2021/happy.png"
+		},
+		{
+			"id": 35,
+			"image": "exclusive/lunar-brawl-2021/angry.png"
+		},
+		{
+			"id": 36,
+			"image": "exclusive/lunar-brawl-2021/gg.png"
+		},
+		{
+			"id": 37,
+			"image": "exclusive/lunar-brawl-2021/thanks.png"
+		},
+		{
+			"id": 38,
+			"image": "exclusive/lunar-brawl-2021/special.png"
 		}
 	]
 }
