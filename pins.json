@@ -103,6 +103,34 @@
 		{
 			"id": 25,
 			"image": "exclusive/brawlidays-2020/neutral.png"
+		},
+		{
+			"id": 26,
+			"image": "exclusive/brawlidays-2020/happy.png"
+		},
+		{
+			"id": 27,
+			"image": "exclusive/brawlidays-2020/sad.png"
+		},
+		{
+			"id": 28,
+			"image": "exclusive/brawlidays-2020/angry.png"
+		},
+		{
+			"id": 29,
+			"image": "exclusive/brawlidays-2020/gg.png"
+		},
+		{
+			"id": 30,
+			"image": "exclusive/brawlidays-2020/thanks.png"
+		},
+		{
+			"id": 31,
+			"image": "exclusive/brawlidays-2020/phew.png"
+		},
+		{
+			"id": 32,
+			"image": "exclusive/brawlidays-2020/special.png"
 		}
 	]
 }
