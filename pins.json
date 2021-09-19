@@ -167,6 +167,10 @@
 		{
 			"id": 41,
 			"image": "exclusive/championship-challenge/confetti.png"
+		},
+		{
+			"id": 42,
+			"image": "exclusive/championship-challenge/white-flag.png"
 		}
 	]
 }
