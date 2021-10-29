@@ -158,19 +158,23 @@
 		},
 		{
 			"id": 39,
-			"image": "exclusive/championship-challenge/lighter.png"
+			"image": "exclusive/championship-challenge-2021/lighter.png"
 		},
 		{
 			"id": 40,
-			"image": "exclusive/championship-challenge/whistle.png"
+			"image": "exclusive/championship-challenge-2021/whistle.png"
 		},
 		{
 			"id": 41,
-			"image": "exclusive/championship-challenge/confetti.png"
+			"image": "exclusive/championship-challenge-2021/confetti.png"
 		},
 		{
 			"id": 42,
-			"image": "exclusive/championship-challenge/white-flag.png"
+			"image": "exclusive/championship-challenge-2021/white-flag.png"
+		},
+		{
+			"id": 43,
+			"image": "exclusive/brawloween-2021/pumpkin.png"
 		}
 	]
 }
