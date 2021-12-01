@@ -179,6 +179,18 @@
 		{
 			"id": 44,
 			"image": "exclusive/singles-day-2021/sign.png"
+		},
+		{
+			"id": 45,
+			"image": "exclusive/world-finals-2021/foam-finger.png"
+		},
+		{
+			"id": 46,
+			"image": "exclusive/world-finals-2021/thumbs-down.png"
+		},
+		{
+			"id": 47,
+			"image": "exclusive/world-finals-2021/sunglasses.png"
 		}
 	]
 }
