@@ -191,6 +191,10 @@
 		{
 			"id": 47,
 			"image": "exclusive/world-finals-2021/sunglasses.png"
+		},
+		{
+			"id": 48,
+			"image": "exclusive/brawlidays-2021/neutral.png"
 		}
 	]
 }
