@@ -195,6 +195,26 @@
 		{
 			"id": 48,
 			"image": "exclusive/brawlidays-2021/neutral.png"
+		},
+		{
+			"id": 49,
+			"image": "exclusive/brawlidays-2021/happy.png"
+		},
+		{
+			"id": 50,
+			"image": "exclusive/brawlidays-2021/angry.png"
+		},
+		{
+			"id": 51,
+			"image": "exclusive/brawlidays-2021/clap.png"
+		},
+		{
+			"id": 52,
+			"image": "exclusive/brawlidays-2021/thanks.png"
+		},
+		{
+			"id": 53,
+			"image": "exclusive/brawlidays-2021/phew.png"
 		}
 	]
 }
