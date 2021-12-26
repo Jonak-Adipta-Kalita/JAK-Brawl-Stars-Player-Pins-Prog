@@ -215,6 +215,10 @@
 		{
 			"id": 53,
 			"image": "exclusive/brawlidays-2021/special.png"
+		},
+		{
+			"id": 54,
+			"image": "exclusive/world-finals-2021/special.png"
 		}
 	]
 }
