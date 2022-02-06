@@ -243,6 +243,10 @@
 		{
 			"id": 60,
 			"image": "exclusive/lunar-brawl-2022/special.png"
+		},
+		{
+			"id": 61,
+			"image": "exclusive/lunar-brawl-challenge-2022/gg.png"
 		}
 	]
 }
