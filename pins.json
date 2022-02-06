@@ -219,6 +219,30 @@
 		{
 			"id": 54,
 			"image": "exclusive/world-finals-2021/special.png"
+		},
+		{
+			"id": 55,
+			"image": "exclusive/brawlies-2021/neutral.png"
+		},
+		{
+			"id": 56,
+			"image": "exclusive/lunar-brawl-2022/neutral.png"
+		},
+		{
+			"id": 57,
+			"image": "exclusive/lunar-brawl-2022/happy.png"
+		},
+		{
+			"id": 58,
+			"image": "exclusive/lunar-brawl-2022/thanks.png"
+		},
+		{
+			"id": 59,
+			"image": "exclusive/lunar-brawl-2022/sweat.png"
+		},
+		{
+			"id": 60,
+			"image": "exclusive/lunar-brawl-2022/special.png"
 		}
 	]
 }
